@@ -1,0 +1,16 @@
+<svg width="360" height="360" viewBox="0 0 360 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="360" height="360" rx="82" fill="#8A1515"/>
+<path d="M146.875 65H76.2764L145.084 166.038L180.128 114.112L146.875 65Z" fill="#E72410"/>
+<path d="M296.001 286.009L215.17 166.043L180.127 217.457L226.937 286.009H296.001Z" fill="#FF8300"/>
+<path d="M64 286.009H133.32L180.129 217.457L145.086 166.043L64 286.009Z" fill="#E72410"/>
+<path d="M283.978 65H213.38L180.127 114.112L215.17 166.038L283.978 65Z" fill="#FF8300"/>
+<path d="M180.134 114.119L145.091 166.045L180.134 217.459L215.178 166.045L180.134 114.119Z" fill="#7E0E00"/>
+<path d="M145.091 166.045L180.134 114.119" stroke="#E72410" stroke-width="0.4196" stroke-miterlimit="10" stroke-linejoin="bevel"/>
+<path d="M215.17 166.043L180.127 217.457" stroke="#FF8300" stroke-width="0.4196" stroke-miterlimit="10" stroke-linejoin="bevel"/>
+<path d="M180.134 217.457L145.091 166.043" stroke="#E72410" stroke-width="0.4196" stroke-miterlimit="10" stroke-linejoin="bevel"/>
+<path d="M180.127 114.119L215.17 166.045" stroke="#FF8300" stroke-width="0.4196" stroke-miterlimit="10" stroke-linejoin="bevel"/>
+<path d="M145.091 166.045H147.137L180.134 117.189V114.119L145.091 166.045Z" fill="#550001"/>
+<path d="M215.17 166.043H213.124L180.127 214.388V217.457L215.17 166.043Z" fill="#670000"/>
+<path d="M180.134 217.457V214.388L147.137 166.043H145.091L180.134 217.457Z" fill="#550001"/>
+<path d="M180.127 114.119V117.189L213.124 166.045H215.17L180.127 114.119Z" fill="#670000"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg width="360" height="360" viewBox="0 0 360 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="360" height="360" rx="82" fill="url(#paint0_angular)" fill-opacity="0.15"/>
+<path d="M186.103 209.722L212.024 194.412L283.892 236.216L186.103 292.735V209.722Z" fill="#F7921E"/>
+<path d="M87.7217 123.191L186.103 66.6733L137.793 39.0025L87.7217 67.2615V123.191Z" fill="#E985AA"/>
+<path d="M87.7217 292.151L137.793 320.411L186.103 292.74L87.7217 236.221V292.151Z" fill="#E985AA"/>
+<path d="M186.103 292.742L234.412 321.002L283.892 292.153V236.224L186.103 292.742Z" fill="#FBC88E"/>
+<path d="M186.103 209.722L160.181 194.412V164.977L87.7217 123.18V236.216L186.103 292.735V209.722Z" fill="#D30B55"/>
+<path d="M40 150.854V208.549L87.7178 236.22V123.183L40 150.854Z" fill="#F7A49B"/>
+<path d="M234.412 39.0025L186.103 66.6733L283.892 123.191V67.2615L234.412 39.0025Z" fill="#F7A49B"/>
+<path d="M186.103 66.6669L87.7217 123.185L160.181 164.981L186.103 149.679L212.024 164.981L283.892 123.185L186.103 66.6669Z" fill="#F04937"/>
+<defs>
+<radialGradient id="paint0_angular" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(180 180) rotate(90) scale(180)">
+<stop offset="0.0665595" stop-color="#D30B55"/>
+<stop offset="0.248724" stop-color="#FD3D28"/>
+<stop offset="0.421327" stop-color="#FE5191"/>
+<stop offset="0.611276" stop-color="#F04937"/>
+<stop offset="0.87502" stop-color="#F7921E"/>
+</radialGradient>
+</defs>
+</svg>
